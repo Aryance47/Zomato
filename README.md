@@ -1,1 +1,3 @@
-# Zomato
+Project Description:
+
+This project involves exploratory data analysis and visualization on Zomato restaurant data using Python, Pandas, and Matplotlib. The analysis investigates key features such as online ordering trends, table booking availability, user ratings, votes, cost distribution, and restaurant categories, providing actionable insights into consumer behavior and business patterns in the food industry. The notebook demonstrates skills in data cleaning, transformation, and visualization, highlighting how different restaurant types perform, which features attract more votes, and how cost, ratings, and online services relate across the dataset.
